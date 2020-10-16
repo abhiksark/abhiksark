@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Pytorch, TensorFlow**
 
-- 📫 How to reach me **abhiksark@gmail.com**
+- 📫 How to reach me **abhiksark@gmail.com** or meet me online setup a call **https://calendly.com/abhiksark/30min** will be happy to talk to you about anything!
 
 - ⚡ Fun fact **My name is sorted Alphabetically**
 
