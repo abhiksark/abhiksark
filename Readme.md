@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **KubeFlow**
 
 - 💬 Ask me about **Pytorch, TensorFlow**
-📅
+
 - 📫 How to reach me **abhiksark@gmail.com** 
 
 - 📅 Want to Setup a meeting about anything? **https://calendly.com/abhiksark/30min** will be happy to talk!
