@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **abhiksark@gmail.com** 
 
-- 📅 Want to Setup a meeting about anything? **https://calendly.com/abhiksark/30min** will be happy to talk!
 
 - ⚡ Fun fact **My name is sorted Alphabetically**
 
