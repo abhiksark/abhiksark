@@ -2,8 +2,8 @@
 <h3 align="center">Machine Learning Nut</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiksark" alt="abhiksark" /> </p>
 
-- 🔭 I’m currently working on (Pylings)[https://github.com/abhiksark/pylings]
-
+- 🔭 I’m currently working on [ArrPy](https://github.com/abhiksark/ArrPy) 
+  
 - 🌱 I’m currently learning **NextJS**
 
 - 💬 Ask me about **Pytorch, TensorFlow**
