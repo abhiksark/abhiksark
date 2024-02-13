@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhik</h1>
 <h3 align="center">Machine Learning Nut</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiksark" alt="abhiksark" /> </p>
-- 🔭 I’m currently working on [Pylings](https://github.com/abhiksark/pylings)
+
+- 🔭 I’m currently working on (Pylings)[https://github.com/abhiksark/pylings]
 
 - 🌱 I’m currently learning **NextJS**
 
