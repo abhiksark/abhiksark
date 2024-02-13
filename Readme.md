@@ -37,7 +37,7 @@
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJs" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic" width="40" height="40" />
-
+   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40" />
 </p>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiksark&layout=compact&hide=html" alt="abhiksark" />
