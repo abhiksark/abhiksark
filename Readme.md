@@ -40,11 +40,11 @@
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic" width="40" height="40" />
    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40" />
 </p>
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiksark&layout=compact&hide=html" alt="abhiksark" />
 </p>
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhiksark&show_icons=true" alt="abhiksark" />
-</p>
+</p> -->
 <p align="center">
   <a href="https://dev.to/abhiksark" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abhiksark" height="30" width="30" />
