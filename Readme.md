@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Nut</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiksark" alt="abhiksark" /> </p>
 
-- 🔭 I’m currently working on [ArrPy](https://github.com/abhiksark/ArrPy) 
+- 🔭 I’m currently working on [detection-fusion](https://github.com/abhiksark/detection-fusion) 
   
 - 🌱 I’m currently learning **NextJS**
 
