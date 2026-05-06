@@ -20,7 +20,8 @@ I write about CUDA, NVIDIA driver internals, and numerical stability at **[abhik
 
 - Building [gastown-dashboard](https://github.com/abhiksark/gastown-dashboard).
 - Deeper on CUDA kernel authoring and Nsight Systems workflows.
-- Spoke at PyCon 2024 — [materials](https://github.com/abhiksark/PyCon2024).
+- Upcoming: workshop at [PyCon Italia 2026](https://2026.pycon.it/en) (May, Bologna) and a talk at [EuroPython 2026](https://ep2026.europython.eu/) (July, Kraków).
+- Workshop at PyCon India 2025 — [ArrPy: rebuilding NumPy from scratch](https://github.com/abhiksark/ArrPy).
 
 #### Elsewhere
 
