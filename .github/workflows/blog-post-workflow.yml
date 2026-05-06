@@ -1,0 +1,26 @@
+name: Latest blog post workflow
+
+on:
+  schedule:
+    # Every Monday at 05:00 UTC
+    - cron: "0 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest posts from abhik.ai
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pull in posts from abhik.ai RSS
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.abhik.ai/rss/feed.xml"
+          max_post_count: 5
+          readme_path: "./Readme.md"
+          template: "- [$title]($url) <sub>$date</sub>"
+          date_format: "mmm dd, yyyy"
+          commit_message: "chore: refresh recent writing from abhik.ai"
