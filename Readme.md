@@ -20,7 +20,8 @@ I write about CUDA, NVIDIA driver internals, and numerical stability at **[abhik
 
 - Building [pylings](https://github.com/abhiksark/pylings).
 - Deeper on CUDA kernel authoring and Nsight Systems workflows.
-- Upcoming: workshop ["Write Your First High-Performance GPU Kernel in Python!"](https://2026.pycon.it/en/event/write-your-first-high-performance-gpu-kernel-in-python) at PyCon Italia 2026 (May, Bologna), and a talk at [EuroPython 2026](https://ep2026.europython.eu/) (July, Kraków).
+- Upcoming: talk at [EuroPython 2026](https://ep2026.europython.eu/) (July, Kraków).
+- Workshop at PyCon Italia 2026 — ["Write Your First High-Performance GPU Kernel in Python!"](https://2026.pycon.it/en/event/write-your-first-high-performance-gpu-kernel-in-python) — [pylings](https://github.com/abhiksark/pylings).
 - Workshop at PyCon India 2025 — [ArrPy: rebuilding NumPy from scratch](https://github.com/abhiksark/ArrPy).
 
 #### Elsewhere
