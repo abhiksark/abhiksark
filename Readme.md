@@ -20,10 +20,10 @@ I write about CUDA, NVIDIA driver internals, and numerical stability at **[abhik
 
 - Building [pylings](https://github.com/abhiksark/pylings).
 - Deeper on CUDA kernel authoring and Nsight Systems workflows.
-- Researching failure modes in ML training clusters — GPU, network, and storage — the reason I wrote the [NVIDIA Xid Error Field Guide](https://www.abhik.ai/articles/nvidia-xid-errors).
+- Researching failure modes in ML training clusters (GPU, network, and storage); wrote the [NVIDIA Xid Error Field Guide](https://www.abhik.ai/articles/nvidia-xid-errors) from that work.
 - Upcoming: talk at [EuroPython 2026](https://ep2026.europython.eu/) (July, Kraków).
-- Workshop at PyCon Italia 2026 — ["Write Your First High-Performance GPU Kernel in Python!"](https://2026.pycon.it/en/event/write-your-first-high-performance-gpu-kernel-in-python) — [github](https://github.com/abhiksark/pycon-italy-2026-workshop).
-- Workshop at PyCon India 2025 — [ArrPy: rebuilding NumPy from scratch](https://github.com/abhiksark/ArrPy).
+- Workshop at PyCon Italia 2026: ["Write Your First High-Performance GPU Kernel in Python!"](https://2026.pycon.it/en/event/write-your-first-high-performance-gpu-kernel-in-python) ([github](https://github.com/abhiksark/pycon-italy-2026-workshop)).
+- Workshop at PyCon India 2025: [ArrPy: rebuilding NumPy from scratch](https://github.com/abhiksark/ArrPy).
 
 #### Elsewhere
 
