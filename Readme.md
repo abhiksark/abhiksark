@@ -6,7 +6,13 @@ I write about CUDA, NVIDIA driver internals, and numerical stability at **[abhik
 
 #### Recent writing
 
-<!-- BLOG-POST-LIST:START -->- [Best Resources for Learning CUDA Matrix Multiplication Optimization](https://www.abhik.ai/articles/best-resources-cuda-matmul-optimization) <sub>Jun 03, 2026</sub>- [C++ Build Pipeline: Compilation vs Linking vs Loading Explained](https://www.abhik.ai/articles/cpp-build-pipeline) <sub>Jun 03, 2026</sub>- [H.264 vs H.265 vs AV1: Comparing Modern Video Codecs](https://www.abhik.ai/articles/h264-vs-h265-vs-av1) <sub>Jun 03, 2026</sub>- [CUDA Matrix Multiplication Optimization: From Naive to Near-cuBLAS](https://www.abhik.ai/articles/cuda-matrix-multiplication-optimization) <sub>Apr 07, 2026</sub>- [The Complete NVIDIA Xid Error Field Guide](https://www.abhik.ai/articles/nvidia-xid-errors) <sub>Mar 13, 2026</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Best Resources for Learning CUDA Matrix Multiplication Optimization](https://www.abhik.ai/articles/best-resources-cuda-matmul-optimization) <sub>Jun 03, 2026</sub>
+- [C++ Build Pipeline: Compilation vs Linking vs Loading Explained](https://www.abhik.ai/articles/cpp-build-pipeline) <sub>Jun 03, 2026</sub>
+- [H.264 vs H.265 vs AV1: Comparing Modern Video Codecs](https://www.abhik.ai/articles/h264-vs-h265-vs-av1) <sub>Jun 03, 2026</sub>
+- [CUDA Matrix Multiplication Optimization: From Naive to Near-cuBLAS](https://www.abhik.ai/articles/cuda-matrix-multiplication-optimization) <sub>Apr 07, 2026</sub>
+- [The Complete NVIDIA Xid Error Field Guide](https://www.abhik.ai/articles/nvidia-xid-errors) <sub>Mar 13, 2026</sub>
+<!-- BLOG-POST-LIST:END -->
 
 [More on abhik.ai →](https://www.abhik.ai/articles)
 

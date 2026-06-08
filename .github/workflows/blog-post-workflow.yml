@@ -21,6 +21,6 @@ jobs:
           feed_list: "https://www.abhik.ai/rss/feed.xml"
           max_post_count: 5
           readme_path: "./Readme.md"
-          template: "- [$title]($url) <sub>$date</sub>"
+          template: "- [$title]($url) <sub>$date</sub>\n"
           date_format: "mmm dd, yyyy"
           commit_message: "chore: refresh recent writing from abhik.ai"
