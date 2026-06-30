@@ -16,11 +16,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Pull in posts from abhik.ai RSS
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://www.abhik.ai/rss/feed.xml"
-          max_post_count: 5
-          readme_path: "./Readme.md"
-          template: "- [$title]($url) <sub>$date</sub>\n"
-          date_format: "mmm dd, yyyy"
-          commit_message: "chore: refresh recent writing from abhik.ai"
+        run: python3 .github/scripts/update_blog.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet Readme.md || (git add Readme.md && git commit -m "chore: refresh recent writing from abhik.ai" && git push)
