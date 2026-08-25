@@ -2,6 +2,8 @@
 
 Director of Machine Learning at [Cloudastructure](https://www.cloudastructure.com). Computer vision for physical security; GPU performance and the unglamorous parts of ML systems.
 
+On the side I build and ship my own tools: [Unfocus](https://github.com/abhiksark/unfocus), [Swage](https://github.com/abhiksark/swage), and [Pythonlings](https://github.com/abhiksark/pythonlings).
+
 I write about CUDA, NVIDIA driver internals, and numerical stability at **[abhik.ai](https://www.abhik.ai)**.
 
 #### Recent writing
@@ -18,12 +20,16 @@ I write about CUDA, NVIDIA driver internals, and numerical stability at **[abhik
 
 #### Currently
 
-- Building [pylings](https://github.com/abhiksark/pylings).
-- Deeper on CUDA kernel authoring and Nsight Systems workflows.
+- [Unfocus](https://github.com/abhiksark/unfocus): a break reminder that asks one thing of you, look at something far away. Installable via [Homebrew](https://github.com/abhiksark/homebrew-unfocus) and [apt](https://github.com/abhiksark/unfocus-apt).
+- [Swage](https://github.com/abhiksark/swage): a Python-embedded MLIR/LLVM GPU compiler that turns variable-sized dense segments into efficient GPU tile tasks.
+- [Pythonlings](https://github.com/abhiksark/pythonlings): Rustlings-style Python exercises in a live terminal TUI, with practice tasks and offline Python docs.
 - Researching failure modes in ML training clusters (GPU, network, and storage); wrote the [NVIDIA Xid Error Field Guide](https://www.abhik.ai/articles/nvidia-xid-errors) from that work.
-- Upcoming: talk at [EuroPython 2026](https://ep2026.europython.eu/) (July, Kraków).
-- Workshop at PyCon Italia 2026: ["Write Your First High-Performance GPU Kernel in Python!"](https://2026.pycon.it/en/event/write-your-first-high-performance-gpu-kernel-in-python) ([github](https://github.com/abhiksark/pycon-italy-2026-workshop)).
-- Workshop at PyCon India 2025: [ArrPy: rebuilding NumPy from scratch](https://github.com/abhiksark/ArrPy).
+
+#### Talks and workshops
+
+- EuroPython 2026: ["An Introduction to Writing Fast GPU Code in Python"](https://www.abhik.ai/talks/europython2026/index.html).
+- PyCon Italia 2026: ["Write Your First High-Performance GPU Kernel in Python!"](https://2026.pycon.it/en/event/write-your-first-high-performance-gpu-kernel-in-python) ([github](https://github.com/abhiksark/pycon-italy-2026-workshop)).
+- PyCon India 2025: [ArrPy: rebuilding NumPy from scratch](https://github.com/abhiksark/ArrPy).
 
 #### Elsewhere
 
